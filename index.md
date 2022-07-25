@@ -14,5 +14,10 @@ git status
 ## Checking commit history
 git log
 
+## Adding and checking remotes
+- git remote add remote_name remote_url
+- Generally the default remote is called ```origin```
+- git remote -v
+
 ## Downloads and references
 - https://git-scm.com/
