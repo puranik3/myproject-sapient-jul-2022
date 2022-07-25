@@ -19,5 +19,19 @@ git log
 - Generally the default remote is called ```origin```
 - git remote -v
 
+## Pushing
+- First time
+```
+git push -u remote_name remote_branch_name_to_track
+```
+Example
+```
+git push -u origin master
+```
+- Later on
+```
+git push
+```
+
 ## Downloads and references
 - https://git-scm.com/
