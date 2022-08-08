@@ -1,0 +1,7 @@
+body {
+    width: 80%;
+    max-width: 1320px;
+    margin: 1em auto;
+    background-color: lightgray;
+    text-transform: uppercase;
+}
